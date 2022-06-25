@@ -1,0 +1,52 @@
+C:\Users\79069\source\repos\library\library\bin\Debug\library.exe.config
+C:\Users\79069\source\repos\library\library\bin\Debug\library.exe
+C:\Users\79069\source\repos\library\library\bin\Debug\library.pdb
+C:\Users\79069\source\repos\library\library\obj\Debug\MyLib.csproj.AssemblyReference.cache
+C:\Users\79069\source\repos\library\library\obj\Debug\library.Form1.resources
+C:\Users\79069\source\repos\library\library\obj\Debug\library.Form2.resources
+C:\Users\79069\source\repos\library\library\obj\Debug\library.Form3.resources
+C:\Users\79069\source\repos\library\library\obj\Debug\library.Properties.Resources.resources
+C:\Users\79069\source\repos\library\library\obj\Debug\MyLib.csproj.GenerateResource.cache
+C:\Users\79069\source\repos\library\library\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\79069\source\repos\library\library\obj\Debug\library.exe
+C:\Users\79069\source\repos\library\library\obj\Debug\library.pdb
+D:\studies\4 курс\курсовая\library\library\bin\Debug\library.exe.config
+D:\studies\4 курс\курсовая\library\library\bin\Debug\library.exe
+D:\studies\4 курс\курсовая\library\library\bin\Debug\library.pdb
+D:\studies\4 курс\курсовая\library\library\obj\Debug\MyLib.csproj.AssemblyReference.cache
+D:\studies\4 курс\курсовая\library\library\obj\Debug\library.Form1.resources
+D:\studies\4 курс\курсовая\library\library\obj\Debug\library.Form2.resources
+D:\studies\4 курс\курсовая\library\library\obj\Debug\library.Form3.resources
+D:\studies\4 курс\курсовая\library\library\obj\Debug\library.Properties.Resources.resources
+D:\studies\4 курс\курсовая\library\library\obj\Debug\MyLib.csproj.GenerateResource.cache
+D:\studies\4 курс\курсовая\library\library\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\studies\4 курс\курсовая\library\library\obj\Debug\library.exe
+D:\studies\4 курс\курсовая\library\library\obj\Debug\library.pdb
+D:\studies\4 курс\library2\library\bin\Debug\library.exe.config
+D:\studies\4 курс\library2\library\bin\Debug\library.exe
+D:\studies\4 курс\library2\library\bin\Debug\library.pdb
+D:\studies\4 курс\library2\library\obj\Debug\MyLib.csproj.AssemblyReference.cache
+D:\studies\4 курс\library2\library\obj\Debug\library.Form1.resources
+D:\studies\4 курс\library2\library\obj\Debug\library.Form2.resources
+D:\studies\4 курс\library2\library\obj\Debug\library.Form3.resources
+D:\studies\4 курс\library2\library\obj\Debug\library.Properties.Resources.resources
+D:\studies\4 курс\library2\library\obj\Debug\MyLib.csproj.GenerateResource.cache
+D:\studies\4 курс\library2\library\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\studies\4 курс\library2\library\obj\Debug\library.exe
+D:\studies\4 курс\library2\library\obj\Debug\library.pdb
+D:\studies\4 курс\library2\library\obj\Debug\library.Form4.resources
+D:\studies\4 курс\library2\library\obj\Debug\library.Form5.resources
+D:\studies\4 курс\8 семестр\library2\library\bin\Debug\library.exe.config
+D:\studies\4 курс\8 семестр\library2\library\bin\Debug\library.exe
+D:\studies\4 курс\8 семестр\library2\library\bin\Debug\library.pdb
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\MyLib.csproj.AssemblyReference.cache
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\library.Form1.resources
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\library.Form2.resources
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\library.Form3.resources
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\library.Form4.resources
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\library.Form5.resources
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\library.Properties.Resources.resources
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\MyLib.csproj.GenerateResource.cache
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\library.exe
+D:\studies\4 курс\8 семестр\library2\library\obj\Debug\library.pdb
